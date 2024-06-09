@@ -1,6 +1,6 @@
 # matrix-authentication-service
 
-![Version: 0.8.1](https://img.shields.io/badge/Version-0.8.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: sha-206d45b](https://img.shields.io/badge/AppVersion-sha--206d45b-informational?style=flat-square)
+![Version: 0.8.2](https://img.shields.io/badge/Version-0.8.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: sha-206d45b](https://img.shields.io/badge/AppVersion-sha--206d45b-informational?style=flat-square)
 
 A Helm chart for deploying the matrix authentication service on Kubernetes
 
@@ -14,7 +14,7 @@ A Helm chart for deploying the matrix authentication service on Kubernetes
 
 | Repository | Name | Version |
 |------------|------|---------|
-| oci://registry-1.docker.io/bitnamicharts | postgresql | 15.5.2 |
+| oci://registry-1.docker.io/bitnamicharts | postgresql | 15.5.4 |
 
 ## Values
 
